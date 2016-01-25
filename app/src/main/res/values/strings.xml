@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">iPlan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_data_base_helper">DataBaseHelper</string>
+    <string name="title_activity_login_data_base_adapter">LoginDataBaseAdapter</string>
+    <string name="title_activity_select_destination">SelectDestination</string>
+    <string name="title_activity_pub">Pub</string>
+    <string name="title_activity_restaurant">Restaurant</string>
+    <string name="title_activity_nightclub">Nightclub</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_aussie_bbq">AussieBBQ</string>
+    <string name="title_activity_milanos">Milanos</string>
+    <string name="title_activity_nandos">Nandos</string>
+    <string name="title_activity_lagoona">Lagoona</string>
+    <string name="title_activity_oval">Oval</string>
+    <string name="title_activity_murrays">Murrays</string>
+    <string name="title_activity_diceys">Diceys</string>
+    <string name="title_activity_palace">Palace</string>
+    <string name="title_activity_cfj">CFJ</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_nandos_dundrum">NandosDundrum</string>
+    <string name="title_activity_nandos_andrews_street">NandosAndrewsStreet</string>
+    <string name="title_activity_nandos_liffey_valley">NandosLiffeyValley</string>
+</resources>
